@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: blit7s
-Version: 0.0.1
+Version: 0.0.2
 Summary: A package for RPi.GPIO that allows you to blit characters on a 7 segment unit.
 Home-page: https://github.com/armaan115/blit7s
 Author: Armaan Aggarwal
